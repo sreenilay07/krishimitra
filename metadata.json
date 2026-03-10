@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Krishimitra AI Assistant",
+  "description": "An AI-powered multilingual voice assistant designed to provide Indian farmers with clear, simple, and actionable agricultural guidance through voice and text on topics like crop diseases, yield prediction, and market prices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
